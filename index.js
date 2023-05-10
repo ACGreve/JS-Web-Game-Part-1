@@ -41,9 +41,15 @@ function newImage(asset,leftPix, bottomPix){
     //images
     newImage('assets/green-character.gif',100,100);
     newImage('assets/pine-tree.png',450,200);
+    newImage('assets/pine-tree.png',850,100);
+    newImage('assets/pine-tree.png',1500,500);
     newImage('assets/tree.png',200,300);
+    newImage('assets/tree.png',1200,350);
+    newImage('assets/tree.png',1800,50);
     newImage('assets/pillar.png',350,100);
+    newImage('assets/pillar.png',1400,100);
     newImage('assets/crate.png',150,200);
+    newImage('assets/crate.png',1520,510);
     newImage('assets/well.png',500,425);
     
     /*Pick up items*/
